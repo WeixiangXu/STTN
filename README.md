@@ -50,3 +50,15 @@ python evaluate.py --data path_to_ImageNet -j16 --arch resnet18_ter --resume ./t
   year={2021}
 }
 ```
+
+```
+@ARTICLE{9927185,
+  author={Xu, Weixiang and Li, Fanrong and Jiang, Yingying and Yong, A and He, Xiangyu and Wang, Peisong and Cheng, Jian},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Improving Extreme Low-bit Quantization with Soft Threshold}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2022.3216389}}
+```
